@@ -1,0 +1,13 @@
+2026-11-17 15:29:21,032 INFO Starting FedAvg: 10 rounds, 2 local epochs, 5 clients
+2026-11-17 15:29:44,714 INFO Round 1 metrics: {'loss': 2.9799540042877197, 'accuracy': 0.19901315789473684, 'macro_f1': 0.18866608905435486, 'weighted_f1': 0.18866608905435486, 'samples': 608, 'round': 1}
+2026-11-17 15:30:06,021 INFO Round 2 metrics: {'loss': 2.1575355529785156, 'accuracy': 0.42269736842105265, 'macro_f1': 0.4011715935274365, 'weighted_f1': 0.4011715935274365, 'samples': 608, 'round': 2}
+2026-11-17 15:30:26,647 INFO Round 3 metrics: {'loss': 1.6302913427352905, 'accuracy': 0.5805921052631579, 'macro_f1': 0.5623681575972819, 'weighted_f1': 0.5623681575972819, 'samples': 608, 'round': 3}
+2026-11-17 15:30:47,261 INFO Round 4 metrics: {'loss': 1.3207508325576782, 'accuracy': 0.65625, 'macro_f1': 0.6398748975580175, 'weighted_f1': 0.6398748975580175, 'samples': 608, 'round': 4}
+2026-11-17 15:31:07,318 INFO Round 5 metrics: {'loss': 1.108201026916504, 'accuracy': 0.7006578947368421, 'macro_f1': 0.6916646702187315, 'weighted_f1': 0.6916646702187315, 'samples': 608, 'round': 5}
+2026-11-17 15:31:27,469 INFO Round 6 metrics: {'loss': 0.9483239054679871, 'accuracy': 0.7351973684210527, 'macro_f1': 0.7294747242797545, 'weighted_f1': 0.7294747242797545, 'samples': 608, 'round': 6}
+2026-11-17 15:31:47,286 INFO Round 7 metrics: {'loss': 0.8810364603996277, 'accuracy': 0.7450657894736842, 'macro_f1': 0.7380521075180243, 'weighted_f1': 0.7380521075180243, 'samples': 608, 'round': 7}
+2026-11-17 15:32:08,072 INFO Round 8 metrics: {'loss': 0.7982025146484375, 'accuracy': 0.7730263157894737, 'macro_f1': 0.7674272350077546, 'weighted_f1': 0.7674272350077546, 'samples': 608, 'round': 8}
+2026-11-17 15:32:27,667 INFO Round 9 metrics: {'loss': 0.7404745221138, 'accuracy': 0.78125, 'macro_f1': 0.7784561094614328, 'weighted_f1': 0.7784561094614328, 'samples': 608, 'round': 9}
+2026-11-17 15:32:48,891 INFO Round 10 metrics: {'loss': 0.7039309144020081, 'accuracy': 0.805921052631579, 'macro_f1': 0.8013323153274667, 'weighted_f1': 0.8013323153274667, 'samples': 608, 'round': 10}
+2026-11-17 15:32:49,328 INFO FedAvg training complete: {'loss': 0.7039309144020081, 'accuracy': 0.805921052631579, 'macro_f1': 0.8013323153274667, 'weighted_f1': 0.8013323153274667, 'samples': 608, 'round': 10}
+2026-11-17 15:32:49,329 INFO Comparison summary saved to results/summary.csv

@@ -1,0 +1,18 @@
+2026-11-17 17:09:16,279 INFO Starting FedAvg: 15 rounds, 2 local epochs, 5 clients
+2026-11-17 17:09:53,865 INFO Round 1 metrics: {'loss': 1.6344401836395264, 'accuracy': 0.5813829787234043, 'macro_f1': 0.5637644024187773, 'weighted_f1': 0.5697618960615299, 'samples': 1880, 'round': 1}
+2026-11-17 17:10:30,224 INFO Round 2 metrics: {'loss': 0.9433900117874146, 'accuracy': 0.7558510638297873, 'macro_f1': 0.7530399797219325, 'weighted_f1': 0.7544316579932059, 'samples': 1880, 'round': 2}
+2026-11-17 17:11:04,256 INFO Round 3 metrics: {'loss': 0.6963451504707336, 'accuracy': 0.8042553191489362, 'macro_f1': 0.7973793104750755, 'weighted_f1': 0.8001883102319024, 'samples': 1880, 'round': 3}
+2026-11-17 17:11:38,590 INFO Round 4 metrics: {'loss': 0.599676251411438, 'accuracy': 0.8287234042553191, 'macro_f1': 0.8244922100862527, 'weighted_f1': 0.8263159439755767, 'samples': 1880, 'round': 4}
+2026-11-17 17:12:12,056 INFO Round 5 metrics: {'loss': 0.5332871675491333, 'accuracy': 0.8420212765957447, 'macro_f1': 0.8398360249955538, 'weighted_f1': 0.8408438759081054, 'samples': 1880, 'round': 5}
+2026-11-17 17:12:46,562 INFO Round 6 metrics: {'loss': 0.49719077348709106, 'accuracy': 0.8542553191489362, 'macro_f1': 0.8523669660058888, 'weighted_f1': 0.8532513936311557, 'samples': 1880, 'round': 6}
+2026-11-17 17:13:19,775 INFO Round 7 metrics: {'loss': 0.4661222994327545, 'accuracy': 0.8627659574468085, 'macro_f1': 0.8602027031253584, 'weighted_f1': 0.8616942212437131, 'samples': 1880, 'round': 7}
+2026-11-17 17:13:54,205 INFO Round 8 metrics: {'loss': 0.43862104415893555, 'accuracy': 0.8712765957446809, 'macro_f1': 0.8691419386613969, 'weighted_f1': 0.8697198867874244, 'samples': 1880, 'round': 8}
+2026-11-17 17:14:27,567 INFO Round 9 metrics: {'loss': 0.42055830359458923, 'accuracy': 0.874468085106383, 'macro_f1': 0.8722466485807798, 'weighted_f1': 0.8728576255357369, 'samples': 1880, 'round': 9}
+2026-11-17 17:15:02,223 INFO Round 10 metrics: {'loss': 0.4098896384239197, 'accuracy': 0.8760638297872341, 'macro_f1': 0.87397538032469, 'weighted_f1': 0.8745343889299679, 'samples': 1880, 'round': 10}
+2026-11-17 17:15:35,861 INFO Round 11 metrics: {'loss': 0.3994637131690979, 'accuracy': 0.8792553191489362, 'macro_f1': 0.8771027556975934, 'weighted_f1': 0.8775361505841249, 'samples': 1880, 'round': 11}
+2026-11-17 17:16:11,679 INFO Round 12 metrics: {'loss': 0.3832787573337555, 'accuracy': 0.8835106382978724, 'macro_f1': 0.8819041057083264, 'weighted_f1': 0.8823885787864614, 'samples': 1880, 'round': 12}
+2026-11-17 17:16:46,110 INFO Round 13 metrics: {'loss': 0.38634905219078064, 'accuracy': 0.8835106382978724, 'macro_f1': 0.8815727616178851, 'weighted_f1': 0.882282952541322, 'samples': 1880, 'round': 13}
+2026-11-17 17:17:20,232 INFO Round 14 metrics: {'loss': 0.39091789722442627, 'accuracy': 0.8840425531914894, 'macro_f1': 0.8825539579336437, 'weighted_f1': 0.88282428879312, 'samples': 1880, 'round': 14}
+2026-11-17 17:17:55,897 INFO Round 15 metrics: {'loss': 0.3930506408214569, 'accuracy': 0.8845744680851064, 'macro_f1': 0.8831461374574981, 'weighted_f1': 0.8836438236393479, 'samples': 1880, 'round': 15}
+2026-11-17 17:17:56,359 INFO FedAvg training complete: {'loss': 0.3930506408214569, 'accuracy': 0.8845744680851064, 'macro_f1': 0.8831461374574981, 'weighted_f1': 0.8836438236393479, 'samples': 1880, 'round': 15}
+2026-11-17 17:17:56,361 INFO Comparison summary saved to results/large/summary.csv

@@ -1,0 +1,3 @@
+2026-11-17 17:06:45,343 INFO Starting centralized training for 10 epochs
+2026-11-17 17:08:29,595 INFO Centralized training complete: {'loss': 0.3299015164375305, 'accuracy': 0.8962765957446809, 'macro_f1': 0.8962424089646693, 'weighted_f1': 0.8956795352050076, 'samples': 1880}
+2026-11-17 17:08:29,596 INFO Comparison summary saved to results/large/summary.csv

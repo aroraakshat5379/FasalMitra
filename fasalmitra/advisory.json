@@ -1,0 +1,110 @@
+{
+  "Tomato___Early_blight": {
+    "summary": "Early blight is a fungal disease that commonly produces brown, target-like rings with yellow margins.",
+    "immediate_actions": [
+      "Remove and safely dispose of affected crop debris.",
+      "Improve airflow and avoid wetting foliage during irrigation.",
+      "Ask the local extension service about a crop-registered treatment before applying any product."
+    ],
+    "prevention": [
+      "Use disease-free seed or seedlings.",
+      "Rotate with non-solanaceous crops.",
+      "Keep the field free of infected residues."
+    ],
+    "source": {
+      "organisation": "Tamil Nadu Agricultural University (TNAU)",
+      "title": "Tomato early blight: integrated disease management",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato_diseases_2.html"
+    }
+  },
+  "Tomato___Late_blight": {
+    "summary": "Late blight can spread rapidly in wet weather and may affect leaves, stems, and fruit.",
+    "immediate_actions": [
+      "Improve drainage and avoid prolonged leaf wetness.",
+      "Remove infected debris and seek local diagnosis promptly.",
+      "Use only locally registered control measures after extension advice."
+    ],
+    "prevention": [
+      "Use crop rotation.",
+      "Maintain field drainage.",
+      "Monitor closely during cool, wet conditions."
+    ],
+    "source": {
+      "organisation": "Tamil Nadu Agricultural University (TNAU)",
+      "title": "Tomato late blight: integrated disease management",
+      "url": "https://agritech.tnau.ac.in/crop_protection/tomato_diseases_8.html"
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "summary": "Bacterial spot causes small water-soaked to brown spots and is difficult to control once established.",
+    "immediate_actions": [
+      "Remove and destroy visibly affected plant parts.",
+      "Avoid handling plants when foliage is wet.",
+      "Consult the local extension service before choosing a control product."
+    ],
+    "prevention": [
+      "Start with disease-free seed and seedlings.",
+      "Rotate with non-host crops.",
+      "Remove crop residues and volunteer tomato plants."
+    ],
+    "source": {
+      "organisation": "Tamil Nadu Agricultural University (TNAU)",
+      "title": "Tomato bacterial leaf spot: disease management",
+      "url": "https://agritech.tnau.ac.in/org_farm/orgfarm_hortidiseases.html"
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "summary": "Tomato mosaic virus can cause mottling, distorted leaves, and stunted growth; it is readily spread by contact.",
+    "immediate_actions": [
+      "Remove symptomatic plants and disinfect hands, tools, and equipment.",
+      "Do not handle healthy plants after infected plants without cleaning up.",
+      "Consult an agricultural expert to confirm the diagnosis."
+    ],
+    "prevention": [
+      "Use seed from disease-free plants.",
+      "Maintain tool and worker hygiene.",
+      "Remove infected crop debris."
+    ],
+    "source": {
+      "organisation": "Tamil Nadu Agricultural University (TNAU)",
+      "title": "Tomato mosaic virus: symptoms and control",
+      "url": "https://agritech.tnau.ac.in/org_farm/orgfarm_hortidiseases.html"
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "summary": "Tomato leaf curl is a viral disease associated with whitefly transmission; infected plants should be assessed promptly.",
+    "immediate_actions": [
+      "Remove severely affected plants where recommended by the local extension service.",
+      "Monitor and manage whiteflies using locally approved integrated methods.",
+      "Remove alternate weed hosts around the field."
+    ],
+    "prevention": [
+      "Use healthy seedlings.",
+      "Use yellow sticky traps as part of whitefly monitoring.",
+      "Keep field borders and nearby weeds managed."
+    ],
+    "source": {
+      "organisation": "Tamil Nadu Agricultural University (TNAU)",
+      "title": "Tomato leaf curl and whitefly management",
+      "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/tomato.html"
+    }
+  },
+  "Potato___Late_blight": {
+    "summary": "Potato late blight affects leaves, stems, and tubers and can advance quickly under wet conditions.",
+    "immediate_actions": [
+      "Remove visibly infected plants or parts as advised locally.",
+      "Avoid injuring tubers at harvest and do not store visibly infected tubers.",
+      "Seek local extension advice on locally registered protective treatment."
+    ],
+    "prevention": [
+      "Plant healthy seed tubers.",
+      "Use crop rotation and maintain drainage.",
+      "Consider locally recommended resistant varieties."
+    ],
+    "source": {
+      "organisation": "Tamil Nadu Agricultural University (TNAU)",
+      "title": "Potato late blight: symptoms and management",
+      "url": "https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_veg_potato_1.html"
+    }
+  }
+}

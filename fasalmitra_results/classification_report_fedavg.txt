@@ -1,0 +1,44 @@
+                                            precision    recall  f1-score   support
+
+                        Apple | Apple scab      0.714     0.625     0.667        16
+                         Apple | Black rot      0.762     1.000     0.865        16
+                  Apple | Cedar apple rust      1.000     0.750     0.857        16
+                           Apple | healthy      0.941     1.000     0.970        16
+                       Blueberry | healthy      1.000     0.750     0.857        16
+                          Cherry | healthy      1.000     1.000     1.000        16
+                   Cherry | Powdery mildew      1.000     0.688     0.815        16
+Corn | Cercospora leaf spot Gray leaf spot      0.750     0.750     0.750        16
+                        Corn | Common rust      1.000     0.938     0.968        16
+                            Corn | healthy      1.000     1.000     1.000        16
+               Corn | Northern Leaf Blight      0.765     0.812     0.788        16
+                         Grape | Black rot      0.714     0.938     0.811        16
+              Grape | Esca (Black Measles)      0.933     0.875     0.903        16
+                           Grape | healthy      1.000     0.938     0.968        16
+Grape | Leaf blight (Isariopsis Leaf Spot)      0.882     0.938     0.909        16
+  Orange | Haunglongbing (Citrus greening)      0.941     1.000     0.970        16
+                    Peach | Bacterial spot      0.941     1.000     0.970        16
+                           Peach | healthy      1.000     1.000     1.000        16
+             Pepper, bell | Bacterial spot      0.667     0.625     0.645        16
+                    Pepper, bell | healthy      0.696     1.000     0.821        16
+                     Potato | Early blight      0.684     0.812     0.743        16
+                          Potato | healthy      0.875     0.875     0.875        16
+                      Potato | Late blight      0.750     0.188     0.300        16
+                       Raspberry | healthy      1.000     0.812     0.897        16
+                         Soybean | healthy      0.833     0.938     0.882        16
+                   Squash | Powdery mildew      0.929     0.812     0.867        16
+                      Strawberry | healthy      0.636     0.875     0.737        16
+                  Strawberry | Leaf scorch      1.000     0.625     0.769        16
+                   Tomato | Bacterial spot      0.619     0.812     0.703        16
+                     Tomato | Early blight      0.636     0.438     0.519        16
+                          Tomato | healthy      0.517     0.938     0.667        16
+                      Tomato | Late blight      0.667     0.375     0.480        16
+                        Tomato | Leaf Mold      0.733     0.688     0.710        16
+               Tomato | Septoria leaf spot      0.556     0.625     0.588        16
+Tomato | Spider mites Two-spotted spider m      0.500     0.938     0.652        16
+                      Tomato | Target Spot      0.545     0.375     0.444        16
+              Tomato | Tomato mosaic virus      0.846     0.688     0.759        16
+    Tomato | Tomato Yellow Leaf Curl Virus      0.833     0.625     0.714        16
+
+                                  accuracy                          0.791       608
+                                 macro avg      0.812     0.791     0.785       608
+                              weighted avg      0.812     0.791     0.785       608
